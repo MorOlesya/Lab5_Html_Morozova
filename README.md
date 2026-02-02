@@ -28,11 +28,11 @@
 
 Так же были изучены:
 
-* <section>
-* <form>
-* <article>
-* <main>
-* <header>
+* `<section>`
+* `<form>`
+* `<article>`
+* `<main>`
+* `<header>`
 
  ***
 
